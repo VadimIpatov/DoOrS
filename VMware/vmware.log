@@ -1,0 +1,217 @@
+Oct 15 12:02:29: vmx| Log for VMware Workstation pid=1144 version=5.5.1 build=build-19175 option=Release
+Oct 15 12:02:29: vmx| Command line: "C:\Program Files\VMware\VMware Workstation\bin\vmware-vmx.exe" "-@" "pipe=\\.\pipe\vmx7eaddb570f4b6c84; vm=7eaddb570f4b6c84" "K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\DoOrS.vmx"
+Oct 15 12:02:29: vmx| UI Connecting to pipe '\\.\pipe\vmx7eaddb570f4b6c84' with user '(null)'
+Oct 15 12:02:29: vmx| CPU #0 TSC = 9315491679788
+Oct 15 12:02:29: vmx| TSC delta 0
+Oct 15 12:02:29: vmx| VMMon_GetkHzEstimate: Calculated 1670452 kHz
+Oct 15 12:02:29: vmx| pcpu #0 CPUID numEntries=1 AuthcAMDenti
+Oct 15 12:02:29: vmx| pcpu #0 CPUID version=0x681 id1.edx=0x383fbff id1.ecx=0x0 id1.ebx=0x0
+Oct 15 12:02:29: vmx| pcpu #0 CPUID id80.eax=80000008 id81.edx=0xc1c3fbff id81.ecx=0x0
+Oct 15 12:02:29: vmx| CPUID id1.edx: 0x383fbff id1.ecx: 0 id81.edx: 0xc1c3fbff id81.ecx: 0
+Oct 15 12:02:29: vmx| CPUID id88.ecx: 0 id88.edx: 0
+Oct 15 12:02:29: vmx| ACL_InitCapabilities: here 1 (bug 63252)
+Oct 15 12:02:29: vmx| changing directory to K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\.
+Oct 15 12:02:29: vmx| Config file: K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\DoOrS.vmx
+Oct 15 12:02:29: vmx| LOG failed to remove K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\vmware-2.log failed: The system cannot find the file specified
+Oct 15 12:02:29: vmx| VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset
+Oct 15 12:02:29: vmx| PowerOn
+Oct 15 12:02:29: vmx| HOST Windows version 5.1, build 2600, platform 2, "Service Pack 2"
+Oct 15 12:02:29: vmx| DICT --- USER PREFERENCES
+Oct 15 12:02:29: vmx| DICT    pref.autoFitFullScreen = fitHostToGuest
+Oct 15 12:02:29: vmx| DICT     pref.view.navBar.type = favorites
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.items.count = 7
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item0.id = POWER_OFF
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item1.id = SUSPEND
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item2.id = POWER_ON
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item3.id = RESET
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item4.id = _SEP_
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item5.id = PREVIEW_PLAYER
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.power.item6.id = PREVIEW_WS
+Oct 15 12:02:29: vmx| DICT     pref.mruDest0.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest0.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest0.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest1.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest1.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest1.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest2.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest2.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest2.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest3.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest3.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest3.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest4.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest4.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest4.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest5.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest5.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest5.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest6.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest6.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest6.user = 
+Oct 15 12:02:29: vmx| DICT     pref.mruDest7.present = FALSE
+Oct 15 12:02:29: vmx| DICT  pref.mruDest7.destString = 
+Oct 15 12:02:29: vmx| DICT        pref.mruDest7.user = 
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.proj.items.count = 4
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.proj.item0.id = ADD_VM
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.proj.item1.id = POLICIES
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.proj.item2.id = PKG_NEW
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.proj.item3.id = EDIT_SETTINGS
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.items.count = 6
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item0.id = FAVORITES
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item1.id = FULL_SCREEN
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item2.id = QUICK_SWITCH
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item3.id = _SEP_
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item4.id = SUMMARY
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.view.item5.id = CONSOLE
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.snapshot.items.count = 3
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.snapshot.item0.id = SNAPSHOT
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.snapshot.item1.id = REVERT
+Oct 15 12:02:29: vmx| DICT pref.view.toolbars.snapshot.item2.id = SNAPSHOT_MANAGER
+Oct 15 12:02:29: vmx| DICT       webUpdate.checkLast = 1192435328
+Oct 15 12:02:29: vmx| DICT webUpdate.lastCheck.status = done_updates
+Oct 15 12:02:29: vmx| DICT --- USER DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- HOST DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- SITE DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- COMMAND LINE
+Oct 15 12:02:29: vmx| DICT             gui.available = TRUE
+Oct 15 12:02:29: vmx| DICT --- CONFIGURATION
+Oct 15 12:02:29: vmx| DICT            config.version = 8
+Oct 15 12:02:29: vmx| DICT         virtualHW.version = 4
+Oct 15 12:02:29: vmx| DICT             scsi0.present = TRUE
+Oct 15 12:02:29: vmx| DICT                   memsize = 8
+Oct 15 12:02:29: vmx| DICT     MemAllowAutoScaleDown = FALSE
+Oct 15 12:02:29: vmx| DICT            ide0:0.present = FALSE
+Oct 15 12:02:29: vmx| DICT           ide0:0.fileName = Other.vmdk
+Oct 15 12:02:29: vmx| DICT            ide1:0.present = FALSE
+Oct 15 12:02:29: vmx| DICT           ide1:0.fileName = auto detect
+Oct 15 12:02:29: vmx| DICT         ide1:0.deviceType = cdrom-raw
+Oct 15 12:02:29: vmx| DICT          floppy0.fileName = K:\work\develop\projects\finished\DoOrS-1.00-RC1\bin\DoOrS.ima
+Oct 15 12:02:29: vmx| DICT             sound.present = FALSE
+Oct 15 12:02:29: vmx| DICT          sound.virtualDev = es1371
+Oct 15 12:02:29: vmx| DICT            sound.fileName = -1
+Oct 15 12:02:29: vmx| DICT          sound.autodetect = TRUE
+Oct 15 12:02:29: vmx| DICT               displayName = DoOrS
+Oct 15 12:02:29: vmx| DICT                   guestOS = other
+Oct 15 12:02:29: vmx| DICT                     nvram = Other.nvram
+Oct 15 12:02:29: vmx| DICT          floppy0.fileType = file
+Oct 15 12:02:29: vmx| DICT                workingDir = .
+Oct 15 12:02:29: vmx| DICT             uuid.location = 56 4d a7 55 b0 f1 c6 7e-5a c5 39 ea b6 6b a3 53
+Oct 15 12:02:29: vmx| DICT                 uuid.bios = 56 4d a7 55 b0 f1 c6 7e-5a c5 39 ea b6 6b a3 53
+Oct 15 12:02:29: vmx| DICT                     debug = FALSE
+Oct 15 12:02:29: vmx| DICT monitor_control.log_vmsample = FALSE
+Oct 15 12:02:29: vmx| DICT        floppy0.autodetect = TRUE
+Oct 15 12:02:29: vmx| DICT        checkpoint.vmState = 
+Oct 15 12:02:29: vmx| DICT --- USER DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- HOST DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- SITE DEFAULTS
+Oct 15 12:02:29: vmx| DICT --- GLOBAL SETTINGS
+Oct 15 12:02:29: vmx| WSSCAN: reserved mem (in MB) min=32 max=384 recommended=384
+Oct 15 12:02:29: vmx|         hostMem=512 maxAllowedAll=4096 maxAllowedVM=3600
+Oct 15 12:02:29: vmx|         totOverhead=16
+Oct 15 12:02:29: vmx| WSSCAN: used rec mem (in MB) 384
+Oct 15 12:02:29: vmx| WSSCAN: Overhead 8433 paged 5038 nonpaged 4096 maxFBSize
+Oct 15 12:02:29: vmx| WSSCAN 1 2 79342 89126 98304 79342 50 0
+Oct 15 12:02:29: vmx| LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Workstation\License.ws.5.0' 
+Oct 15 12:02:29: vmx| STATDECLGROUP stats Root "" null
+Oct 15 12:02:29: vmx| Host CPUID features: version 0x681 id1.edx 0x383fbff id1.ecx 0x0 id81.edx 0xc1c3fbff id81.ecx 0x0
+Oct 15 12:02:29: vmx| CPU.cpuFeatures = 0x483d5e00
+Oct 15 12:02:29: vmx| CPUID after masking: version 0x681 id1.edx 0x383fbff id1.ecx 0x0 id81.edx 0xc1c3fbff id81.ecx 0x0 id88.ecx 0x0
+Oct 15 12:02:29: vmx| CPU.cpuFeatures = 0x483d5e00
+Oct 15 12:02:29: vmx| KHZEstimate 1670452
+Oct 15 12:02:29: vmx| MHZEstimate 1670
+Oct 15 12:02:29: vmx| NumVCPUs 1
+Oct 15 12:02:29: vmx| UUID: location-UUID is 56 4d 65 2d ee cf 25 de-19 59 b1 bc 70 b3 95 e1
+Oct 15 12:02:29: vmx| UUID: canonical path is k:\work\develop\projects\finished\doors-1.00-rc1\vmware\doors.vmx
+Oct 15 12:02:29: vmx| UUID: location-UUID is 56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4
+Oct 15 12:02:29: vmx| Msg_Question:
+Oct 15 12:02:29: vmx| [msg.uuid.moved] The location of this virtual machine's configuration file has changed since it was last powered on.
+Oct 15 12:02:29: vmx| 
+Oct 15 12:02:29: vmx| If the virtual machine has been copied, you should create a new unique identifier (UUID).  If it has been moved, you should keep its old identifier.
+Oct 15 12:02:29: vmx| 
+Oct 15 12:02:29: vmx| If you are not sure, create a new identifier.
+Oct 15 12:02:29: vmx| 
+Oct 15 12:02:29: vmx| What do you want to do?----------------------------------------
+Oct 15 12:02:35: vmx| Msg_Question: msg.uuid.moved reply=1
+Oct 15 12:02:35: vmx| UUID: Writing uuid.bios 56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4
+Oct 15 12:02:35: vmx| UUID: Writing uuid.location 56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4
+Oct 15 12:02:35: vmx| MM: Using partialmap, 2048 pages AC 0 CE 1 TM 0 DOHU 0
+Oct 15 12:02:35: vmx| UUID: canonical path is k:\work\develop\projects\finished\doors-1.00-rc1\vmware\doors.vmx
+Oct 15 12:02:35: vmx| UUID: location-UUID is 56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4
+Oct 15 12:02:35: vmx| MM: using fileName K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\564dc5bd-f9dd-49f2-1eca-231b5f087fc4.vmem for paging
+Oct 15 12:02:35: vmx| Msg_Reset:
+Oct 15 12:02:35: vmx| ----------------------------------------
+Oct 15 12:02:35: vmx| Opened paging file K:\work\develop\projects\finished\DoOrS-1.00-RC1\VMware\564dc5bd-f9dd-49f2-1eca-231b5f087fc4.vmem
+Oct 15 12:02:35: vmx| Mapped mainmem as pageable
+Oct 15 12:02:35: vmx| MStat: Creating Stat vm.uptime
+Oct 15 12:02:35: vmx| TimeTracker host to guest rate conversion 9325376920177 @ 1670452000Hz -> 9325376920177 @ 1670452000Hz
+Oct 15 12:02:35: vmx| TimeTracker host to guest rate conversion ((x * 2147483648) >> 31) + 0
+Oct 15 12:02:35: vmx| SCSI0: UNTAGGED commands will be converted to ORDER tags.
+Oct 15 12:02:35: vmx| MStat: Creating Stat vm.heartbeat
+Oct 15 12:02:35: vmx| DISKUTIL: Offline toolsVersion = 0
+Oct 15 12:02:35: vmx| TOOLS INSTALL initializing state to IDLE on power on.
+Oct 15 12:02:35: vmx| VLANCE: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks
+Oct 15 12:02:35: vmx| VMXNET: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks, dontClusterSize is 128
+Oct 15 12:02:35: vmx| E1000: checksum cycles/kB: C=1083 asm=406
+Oct 15 12:02:35: vmx| VirtualProtect MapProtectMem(0x1510000,0x1000) returns 0x1e7
+Oct 15 12:02:35: vmx| Can't read-only monitor pages from 0x01510000 to 0x01511000
+Oct 15 12:02:35: vmx| VirtualProtect MapProtectMem(0x1512000,0x0) returns 0x57
+Oct 15 12:02:35: vmx| Can't read-only monitor pages from 0x01512000 to 0x01512000
+Oct 15 12:02:35: vmx| TOOLS received request in VMX to set option 'enableDnD' -> '1'
+Oct 15 12:02:35: vmx| VMX_PowerOn: ModuleTable_PowerOn = 1
+Oct 15 12:02:35: mks| Async MKS thread is alive
+Oct 15 12:02:35: vmx| DnD rpc already set to 1
+Oct 15 12:02:35: mks| Connecting to window system.
+Oct 15 12:02:35: mks| KHBKL: Unable to parse keystring at: ''
+Oct 15 12:02:38: vcpu-0| APIC: version = 0x10, max LVT = 4
+Oct 15 12:02:38: vcpu-0| APIC: LDR = 0x1000000, DFR = 0xffffffff
+Oct 15 12:02:38: vcpu-0| PShare: enabled 1, scanRate 32, checkRate 16
+Oct 15 12:02:38: vcpu-0| guestCpuFeatures = 0x483d5e00
+Oct 15 12:02:38: vcpu-0| Init modules.
+Oct 15 12:02:38: vcpu-0| CPU reset: hard
+Oct 15 12:02:38: vmx| FLOPPYLIB-IMAGE: Floppy geometry 80/2/18 detected from boot sector.
+Oct 15 12:02:38: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:38: vcpu-0| sz=3112928
+Oct 15 12:02:38: vcpu-0| vmm32 initialized: Releasebuild-19175. cflags: 0x08080002.01801000.00000050
+Oct 15 12:02:38: vcpu-0| SVGA: Registering MemSpace at 0xf0000000(0x0) and 0xec000000(0x0)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to map the VBIOS OPROM at 0xfe800000 (size 32768 bytes)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to unmap the VBIOS OPROM
+Oct 15 12:02:38: vcpu-0| SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xec000000(0xec000000)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to map the SBIOS OPROM at 0xfe800000 (size 16384 bytes)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to unmap the SBIOS OPROM
+Oct 15 12:02:38: vcpu-0| SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xec000000(0xec000000)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to map the VBIOS OPROM at 0xfe800000 (size 32768 bytes)
+Oct 15 12:02:38: vcpu-0| PCI OPROM: Asked to unmap the VBIOS OPROM
+Oct 15 12:02:38: vcpu-0| SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xec000000(0xec000000)
+Oct 15 12:02:38: vcpu-0| SVGA: Registering IOSpace at 0x1080 (0x0)
+Oct 15 12:02:38: vcpu-0| SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xec000000(0xec000000)
+Oct 15 12:02:38: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:38: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:38: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:39: vcpu-0| PCI OPROM: Asked to map the SBIOS OPROM at 0xfe800000 (size 16384 bytes)
+Oct 15 12:02:39: vcpu-0| PCI OPROM: Asked to unmap the SBIOS OPROM
+Oct 15 12:02:40: vcpu-0| BIOS-UUID is 56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4
+Oct 15 12:02:40: vcpu-0| DISKUTIL: Offline toolsVersion = 0
+Oct 15 12:02:40: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:40: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:41: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:02:41: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:04:31: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:04:55: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:05:26: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:05:26: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:05:27: mks| Ignoring update request in VGA_Expose (mode change pending).
+Oct 15 12:05:40: vmx| VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOff without reset
+Oct 15 12:05:40: vmx| Stopping VCPU threads...
+Oct 15 12:05:40: mks| Detaching from window system.
+Oct 15 12:05:40: mks| Async MKS thread is exiting
+Oct 15 12:05:40: vmx| TOOLS received request in VMX to set option 'enableDnD' -> '0'
+Oct 15 12:05:40: vmx| TOOLS received request in VMX to set option 'enableDnD' -> '0'
+Oct 15 12:05:40: vmx| MKS local poweroff
+Oct 15 12:05:40: vmx| Lock before MKS lock created.  Early poweroff?
+Oct 15 12:05:40: vmx| Unlock before MKS lock created.  Early poweroff?
+Oct 15 12:05:40: vmx| AIOWIN32: asyncOps=323 syncOps=1 bufSize=4Kb delayed=0 fixed=1 sgOp=0 sgOn=1
+Oct 15 12:05:40: vmx| vmdbPipe_Streams: Couldn't read
+Oct 15 12:05:40: vmx| VMX idle exit
+Oct 15 12:05:40: vmx| Flushing VMX VMDB connections
+Oct 15 12:05:40: vmx| IPC_exit: disconnecting all threads
+Oct 15 12:05:40: vmx| VMX exit.

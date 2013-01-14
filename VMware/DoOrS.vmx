@@ -1,0 +1,31 @@
+config.version = "8"
+virtualHW.version = "4"
+scsi0.present = "TRUE"
+memsize = "8"
+MemAllowAutoScaleDown = "FALSE"
+ide0:0.present = "FALSE"
+ide0:0.fileName = "Other.vmdk"
+ide1:0.present = "FALSE"
+ide1:0.fileName = "auto detect"
+ide1:0.deviceType = "cdrom-raw"
+floppy0.fileName = "K:\work\develop\projects\finished\DoOrS-1.00-RC1\bin\DoOrS.ima"
+sound.present = "FALSE"
+sound.virtualDev = "es1371"
+sound.fileName = "-1"
+sound.autodetect = "TRUE"
+displayName = "DoOrS"
+guestOS = "other"
+nvram = "Other.nvram"
+
+floppy0.fileType = "file"
+workingDir = "."
+
+uuid.location = "56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4"
+uuid.bios = "56 4d c5 bd f9 dd 49 f2-1e ca 23 1b 5f 08 7f c4"
+
+debug = "FALSE"
+monitor_control.log_vmsample = "FALSE"
+
+floppy0.autodetect = "TRUE"
+
+checkpoint.vmState = ""
